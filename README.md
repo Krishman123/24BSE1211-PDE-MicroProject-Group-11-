@@ -3,9 +3,13 @@ Implement Quantum Confinement using Schrodinger equation and visualize first thr
 
 ## Group Members
 Krishna S (Group Leader)-Project Coordination
+
 Abhishek S -Graphs & Data Analysis
+
 Alwin v binoj - Python programming
+
 Madhav S - Mathematical Derivation
+
 Mithu Antony - Documentation & presentation
 
 ## Project Summary
